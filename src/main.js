@@ -1,5 +1,5 @@
 import { convertToMd } from './md.js';
-import { parseWfData } from './processing.js';
+import { parseWfData } from './parsers.js';
 
 const main = (state, conf, data) => {
   const parsedData = parseWfData(state, data);
