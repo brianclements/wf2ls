@@ -1,6 +1,6 @@
 {
   "name": "wf2ls",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "description": "A tool to help convert Workflowy backup JSON into LogSeq friendly markdown files",
   "main": "src/wf2ls.js",
   "scripts": {

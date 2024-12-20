@@ -1,6 +1,6 @@
 # Workflowy to LogSeq Converter Utility
 
-![version](https://img.shields.io/badge/version-0.10.0-yellowgreen) ![status - alpha](https://img.shields.io/badge/status-alpha-orange) [![GitHub tag](https://img.shields.io/github/tag/brianclements/wf2ls?include_prereleases=&sort=semver&color=blue)](https://github.com/brianclements/wf2ls/releases/)
+![version](https://img.shields.io/badge/version-0.12.0-yellowgreen) ![status - alpha](https://img.shields.io/badge/status-alpha-orange) [![GitHub tag](https://img.shields.io/github/tag/brianclements/wf2ls?include_prereleases=&sort=semver&color=blue)](https://github.com/brianclements/wf2ls/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 This tool attempts to take Workflowy backup files (the Dropbox sync files with
